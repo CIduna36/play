@@ -679,4 +679,4 @@
     ReactDOM.render(<App />, document.getElementById('root'));
   </script>
 </body>
-</html>                                      გააუმჯობესე
+</html>                                      
